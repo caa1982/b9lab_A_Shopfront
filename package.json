@@ -1,0 +1,22 @@
+{
+  "name": "b9lab_a_shopfront",
+  "version": "1.0.0",
+  "description": "## You will create a small project named \"a shopfront\" whereby:",
+  "main": "truffle.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caa1982/b9lab_A_Shopfront"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^3.4.11",
+    "zeppelin-solidity": "^1.3.0"
+  }
+}
